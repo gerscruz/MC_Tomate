@@ -1,0 +1,500 @@
+	{
+	  "aquabeek": {
+	    "Tropical Aquabeek": {
+	      "protoTexture": "aquabeek_triggerfish.png",
+	      "veloTexture": "aquabeekflying_triggerfish.png",
+	      "capsuleTexture": "capsuleaquabeek_triggerfish.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "armashelt": {
+	    "Shadow Armashelt": {
+	      "protoTexture": "armashelt_black.png",
+	      "veloTexture": "armasheltflying_black.png",
+	      "capsuleTexture": "capsulearmashelt_black.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "arachnet": {
+	    "Lagoon Arachnet": {
+	      "protoTexture": "arachnet_blue.png",
+	      "veloTexture": "arachnetflying_blue.png",
+	      "capsuleTexture": "capsulearachnet_blue.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "blastipede": {
+	    "Frostspot Blastipede": {
+	      "protoTexture": "blastipede_blue.png",
+	      "veloTexture": "blastipedeflying_blue.png",
+	      "capsuleTexture": "capsuleblastipede_blue.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "boon_doc": {
+	    "Peach Boon Doc": {
+	      "protoTexture": "boondoc_peach.png",
+	      "veloTexture": "boondocflying_peach.png",
+	      "capsuleTexture": "capsuleboondoc_peach.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "boon_doc_white": {
+	    "Melanistic Boon Doc": {
+	      "protoTexture": "boondocwhite_melanistic.png",
+	      "veloTexture": "boondocwhiteflying_melanistic.png",
+	      "capsuleTexture": "capsuleboondocwhite_melanistic.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "bubbaleone": {
+	    "Bluebubble Bubbaleone": {
+	      "protoTexture": "bubbaleone_bluebubble.png",
+	      "veloTexture": "bubbaleoneflying_bluebubble.png",
+	      "capsuleTexture": "capsulebubbaleone_bluebubble.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "crystalyd": {
+	    "Fluorescent Crystalyd": {
+	      "protoTexture": "crystalyd_fluorescent.png",
+	      "veloTexture": "crystalydflying_fluorescent.png",
+	      "capsuleTexture": "capsulecrystalyd_fluorescent.png",
+	      "spawnChance": 1
+	    },
+	    "Blazegem Crystalyd": {
+	      "protoTexture": "crystalyd_blue.png",
+	      "veloTexture": "crystalydflying_blue.png",
+	      "capsuleTexture": "capsulecrystalyd_blue.png",
+	      "spawnChance": 2
+	    }
+	  },
+
+	  "diggrix": {
+	    "Terracotta Diggrix": {
+	      "protoTexture": "diggrix_terracotta.png",
+	      "veloTexture": "diggrixflying_terracotta.png",
+	      "capsuleTexture": "capsulediggrix_terracotta.png",
+	      "spawnChance": 2
+	    },
+	    "Mossy Diggrix": {
+	      "protoTexture": "diggrix_mossy.png",
+	      "veloTexture": "diggrixflying_mossy.png",
+	      "capsuleTexture": "capsulediggrix_mossy.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "dirt_urchin": {
+	    "Glacial Dirt Urchin": {
+	      "protoTexture": "dirturchin_glacial.png",
+	      "veloTexture": "dirturchinflying_glacial.png",
+	      "capsuleTexture": "capsuledirturchin_glacial.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "enigmo": {
+	    "Runeblue Enigmo": {
+	      "protoTexture": "enigmo_blue.png",
+	      "veloTexture": "enigmoflying_blue.png",
+	      "capsuleTexture": "capsuleenigmo_blue.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "flatulorhinkus": {
+	    "Gassy Flatulorhinkus": {
+	      "protoTexture": "flatulorhinkus_gassy.png",
+	      "veloTexture": "flatulorhinkusflying_gassy.png",
+	      "capsuleTexture": "capsuleflatulorhinkus_gassy.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "flopper": {
+		  "Tundra Flopper": {
+		    "protoTexture": "flopper_tundra.png",
+		    "flopperSleepingTexture": "floppersleep_tundra.png",
+		    "capsuleTexture": "capsuleflopper_tundra.png",
+		    "spawnChance": 1
+		  },
+		  "Blue Flopper": {
+		    "protoTexture": "flopper_blue.png",
+		    "flopperSleepingTexture": "floppersleep_blue.png",
+		    "capsuleTexture": "capsuleflopper_blue.png",
+		    "spawnChance": 1
+		  },
+		  "Sandy Flopper": {
+		    "protoTexture": "flopper_sandy.png",
+		    "flopperSleepingTexture": "floppersleep_sandy.png",
+		    "capsuleTexture": "capsuleflopper_sandy.png",
+		    "spawnChance": 1
+		  },
+		  "Rosa Flopper": {
+		    "protoTexture": "flopper_rosa.png",
+		    "flopperSleepingTexture": "floppersleep_rosa.png",
+		    "capsuleTexture": "capsuleflopper_rosa.png",
+		    "spawnChance": 1
+		  },
+		  "Purple Flopper": {
+		    "protoTexture": "flopper_purple.png",
+		    "flopperSleepingTexture": "floppersleep_purple.png",
+		    "capsuleTexture": "capsuleflopper_purple.png",
+		    "spawnChance": 1
+		  },
+		  "Ocean Flopper": {
+		    "protoTexture": "flopper_ocean.png",
+		    "flopperSleepingTexture": "floppersleep_ocean.png",
+		    "capsuleTexture": "capsuleflopper_ocean.png",
+		    "spawnChance": 1
+		  },
+		  "Green Flopper": {
+		    "protoTexture": "flopper_green.png",
+		    "flopperSleepingTexture": "floppersleep_green.png",
+		    "capsuleTexture": "capsuleflopper_green.png",
+		    "spawnChance": 1
+		  }
+		},
+
+	  "flaringo": {
+	    "Dark Flaringo": {
+	      "protoTexture": "flaringo_dark.png",
+	      "veloTexture": "flaringoflying_dark.png",
+	      "capsuleTexture": "capsuleflaringo_dark.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "forgesmelter": {
+	    "Rosefire Forgesmelter": {
+	      "protoTexture": "forgesmelter_pink.png",
+	      "veloTexture": "forgesmelterflying_pink.png",
+	      "capsuleTexture": "capsuleforgesmelter_pink.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "fandango": {
+	    "Aqua Fandango": {
+	      "protoTexture": "fandango_blue.png",
+	      "veloTexture": "fandangoflying_blue.png",
+	      "capsuleTexture": "capsulefandango_blue.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "frightgeist": {
+	    "Panda Frightgeist": {
+	      "protoTexture": "frightgeist_panda.png",
+	      "veloTexture": "frightgeistflying_panda.png",
+	      "capsuleTexture": "capsulefrightgeist_panda.png",
+	      "spawnChance": 1
+	    },
+	    "Spectra Frightgeist": {
+	      "protoTexture": "frightgeist_green.png",
+	      "veloTexture": "frightgeistflying_green.png",
+	      "capsuleTexture": "capsulefrightgeist_green.png",
+	      "spawnChance": 2
+	    }
+	  },
+
+	  "frostcrawler": {
+	    "Goth Frostcrawler": {
+	      "protoTexture": "frostcrawler_goth.png",
+	      "veloTexture": "frostcrawlerflying_goth.png",
+	      "capsuleTexture": "capsulefrostcrawler_goth.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "gazzer": {
+	    "Methane Gazzer": {
+	      "protoTexture": "gazzer_methane.png",
+	      "veloTexture": "gazzerflying_methane.png",
+	      "capsuleTexture": "capsulegazzer_methane.png",
+	      "spawnChance": 1
+	    },
+	    "Peridot Gazzer": {
+	      "protoTexture": "gazzer_peridot.png",
+	      "veloTexture": "gazzerflying_peridot.png",
+	      "capsuleTexture": "capsulegazzer_peridot.png",
+	      "spawnChance": 2
+	    }
+	  },
+
+	  "geoshard": {
+	    "Aurora Geoshard": {
+	      "protoTexture": "geoshard_blue.png",
+	      "veloTexture": "geoshardflying_blue.png",
+	      "capsuleTexture": "capsulegeoshard_blue.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "grenuke": {
+	    "Arcane Grenuke": {
+	      "protoTexture": "grenuke_purple.png",
+	      "veloTexture": "grenukeflying_purple.png",
+	      "capsuleTexture": "capsulegrenuke_purple.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "hexlet": {
+	    "Jade Hexlet": {
+	      "protoTexture": "hexlet_green.png",
+	      "veloTexture": "hexletflying_green.png",
+	      "capsuleTexture": "capsulehexlet_green.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "hoverbug": {
+	    "Green Hoverbug": {
+	      "protoTexture": "hoverbug_green.png",
+	      "veloTexture": "hoverbugflying_green.png",
+	      "capsuleTexture": "capsulehoverbug_green.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "hoprock": {
+	    "Firecracker Hoprock": {
+	      "protoTexture": "hoprock_firecracker.png",
+	      "veloTexture": "hoprockflying_firecracker.png",
+	      "capsuleTexture": "capsulehoprock_firecracker.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "infurnus": {
+	    "Yellow Infurnus": {
+	      "protoTexture": "yellowinfurnus.png",
+	      "veloTexture": "yellowinfurnusflying.png",
+	      "capsuleTexture": "capsulejoojootexture.png",
+	      "spawnChance": 1
+	    }
+,
+	    "Gas Infurnus": {
+	      "protoTexture": "infurnus_gas.png",
+	      "veloTexture": "infurnusflying_gas.png",
+	      "capsuleTexture": "capsuleinfurnus_gas.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "jellyish": {
+	    "Pink Jellyish": {
+	      "protoTexture": "jellyish_pink.png",
+	      "veloTexture": "jellyishflying_pink.png",
+	      "capsuleTexture": "capsulejellyish_pink.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "lavalynx": {
+	    "Crying Lavalynx": {
+	      "protoTexture": "lavalynx_cryingobsidian.png",
+	      "veloTexture": "lavalynxflying_cryingobsidian.png",
+	      "capsuleTexture": "capsulelavalynx_cryingobsidian.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "lariat": {
+	    "Abyssal Lariat": {
+	      "protoTexture": "lariat_purple.png",
+	      "veloTexture": "lariatflying_purple.png",
+	      "capsuleTexture": "capsulelariat_purple.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "makobreaker": {
+	    "Minty Makobreaker": {
+	      "protoTexture": "makobreaker_minty.png",
+	      "veloTexture": "makobreakerflying_minty.png",
+	      "capsuleTexture": "capsulemakobreaker_minty.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "neotox": {
+	    "Hemlock Neotox": {
+	      "protoTexture": "neotox_hemlock.png",
+	      "veloTexture": "neotoxflying_hemlock.png",
+	      "capsuleTexture": "capsuleneotox_hemlock.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "negashade": {
+	    "Neon Negashade": {
+	      "protoTexture": "negashade_neon.png",
+	      "veloTexture": "negashadeflying_neon.png",
+	      "capsuleTexture": "capsulenegashade_neon.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "phosphoro": {
+	    "Flashbang Phosphoro": {
+	      "protoTexture": "phosphoro_flashbang.png",
+	      "veloTexture": "phosphoroflying_flashbang.png",
+	      "capsuleTexture": "capsulephosphoro_flashbang.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+
+	  "pieper": {
+	    "Blaze Pieper": {
+	      "protoTexture": "pieper_blaze.png",
+	      "veloTexture": "pieperflying_blaze.png",
+	      "capsuleTexture": "capsulepieper_blaze.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "polero": {
+	    "YinYang Polero": {
+	      "protoTexture": "polero_yinyang.png",
+	      "veloTexture": "poleroflying_yinyang.png",
+	      "capsuleTexture": "capsulepolero_yinyang.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "rammstone": {
+	    "Highland Rammstone": {
+	      "protoTexture": "rammstone_highland.png",
+	      "veloTexture": "smallhornedrammstone_highland.png",
+		  "rammstoneBigTexture": "bighornedrammstone_highland.png",
+	      "capsuleTexture": "capsulerammstone_highland.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "sand_angler": {
+	    "Cherry Sand Angler": {
+	      "protoTexture": "sand_angler_godkip_texture.png",
+	      "veloTexture": "sand_angler_godkip_velocimorph_texture.png",
+	      "capsuleTexture": "sand_angler_godkip_capsule_texture.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "slyren": {
+	    "Purple Slyren": {
+	      "protoTexture": "slyren_purple.png",
+	      "slyrenSingingTexture": "slyrensleep_purple.png",
+	      "veloTexture": "slyrenflying_purple.png",
+	      "capsuleTexture": "capsuleslyren_purple.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "slicksilver": {
+	    "Opaline Slicksilver": {
+	      "protoTexture": "slicksilver_purple.png",
+	      "veloTexture": "slicksilverflying_purple.png",
+	      "capsuleTexture": "capsuleslicksilver_purple.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "speedstinger": {
+	    "Yellow Speedstinger": {
+	      "protoTexture": "speedstinger_yellow.png",
+	      "veloTexture": "speedstingerflying_yellow.png",
+	      "capsuleTexture": "capsulespeedstinger_yellow.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "thresher": {
+	    "Emberfin Thresher": {
+	      "protoTexture": "thresher_orange.png",
+	      "veloTexture": "thresherflying_orange.png",
+	      "capsuleTexture": "capsulethresher_orange.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "thugglet": {
+	    "Deepteal Thugglet": {
+	      "protoTexture": "thugglet_deepteal.png",
+	      "veloTexture": "thuggletflying_deepteal.png",
+	      "capsuleTexture": "capsulethugglet_deepteal.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "tormato": {
+	    "Bluestripe Tormato": {
+	      "protoTexture": "tormato_bluestripe.png",
+	      "veloTexture": "tormatoflying_bluestripe.png",
+	      "capsuleTexture": "capsuletormato_bluestripe.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "tazerling": {
+		  "Void Tazerling": {
+		    "protoTexture": "tazerling_phyre_texture.png",
+		    "veloTexture": "tazerling_phyre_velocimorph_texture.png",
+		    "capsuleTexture": "tazerling_phyre_capsule_texture.png",
+		    "spawnChance": 1
+		  },
+		  "Gloomspark Tazerling": {
+		    "protoTexture": "tazerling_gloomspark.png",
+		    "veloTexture": "tazerlingflying_gloomspark.png",
+		    "capsuleTexture": "capsuletazerling_gloomspark.png",
+		    "spawnChance": 1
+		  },
+		  "Bonita Tazerling": {
+		    "protoTexture": "tazerling_bonita.png",
+		    "veloTexture": "tazerlingflying_bonita.png",
+		    "capsuleTexture": "capsuletazerling_bonita.png",
+		    "spawnChance": 1
+		  }
+		},
+
+	  "vinedrill": {
+	    "Orange Vinedrill": {
+	      "protoTexture": "vinedrill_orange.png",
+	      "veloTexture": "vinedrillflying_orange.png",
+	      "capsuleTexture": "capsulevinedrill_orange.png",
+	      "vinedrillPlant1Texture": "vinedrillplantsmall_orange.png",
+	      "vinedrillPlant2Texture": "vinedrillplantmedium_orange.png",
+	      "vinedrillPlant3Texture": "vinedrillplantbig_orange.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "xmitter": {
+	    "Orange Xmitter": {
+	      "protoTexture": "xmitter_orange.png",
+	      "veloTexture": "xmitterflying_orange.png",
+	      "capsuleTexture": "capsulexmitter_orange.png",
+	      "spawnChance": 1
+	    }
+	  },
+
+	  "hypnogrif": {
+	    "Royal Hypnogrif": {
+	      "protoTexture": "hypnogrif_royal_texture.png",
+	      "veloTexture": "hypnogrif_royal_velocimorph_texture.png",
+	      "capsuleTexture": "hypnogrif_royal_capsule_texture.png",
+	      "spawnChance": 1
+	    }
+	  }
+	}
